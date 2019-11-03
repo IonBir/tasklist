@@ -3,7 +3,7 @@ const taskList = document.querySelector('.collection');
 const clearBtn = document.querySelector('.clear-tasks');
 const filter = document.querySelector('#filter');
 const taskInput = document.querySelector('#task');
-
+//first git commit
 //Load Event Listeners
 
 loadEventListeners();
